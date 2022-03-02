@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Blog : https://velog.io/@sol_reshur
+- Twitter : 
 
 <!--
 **sol-reshur/sol-reshur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
