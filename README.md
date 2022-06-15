@@ -1,7 +1,7 @@
 ### HELLO! 👋
-<br/>
 <hr/>
-- Blog : https://sol-reshur.tistory.com/
+<br/>
+- Blog : https://sol-reshur.tistory.com/ <br/>
 - Twitter : 
 
 
