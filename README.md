@@ -1,4 +1,6 @@
 ### HELLO! 👋
+<br/>
+<hr/>
 - Blog : https://sol-reshur.tistory.com/
 - Twitter : 
 
